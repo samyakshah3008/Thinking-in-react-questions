@@ -5,6 +5,7 @@ import Question3 from "./Question3";
 import Question4 from "./Question4"
 import Question5 from "./Question5"
 import Question6 from "./Question6"
+import Question7 from "./Question7"
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Question4></Question4>
       <Question5></Question5>
       <Question6></Question6>
+      <Question7></Question7>
     </div>
   );
 }
