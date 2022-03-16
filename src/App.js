@@ -1,5 +1,6 @@
 import './App.css'; 
 import Question1 from './Question1';
+import Question2 from "./Question2"
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <div>Hey</div>       
       </header> 
       <Question1></Question1>  
+      <Question2></Question2>
     </div>
   );
 }
