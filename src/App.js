@@ -10,6 +10,7 @@ import Question8 from "./Question8/Question8"
 import Question12 from "./Question12"
 import Question11 from "./Question11"
 import Question10 from "./Question10"
+import Question9Toast from './Question9/Question9';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <Question6></Question6>
       <Question7></Question7>
       <Question8></Question8>
+      <Question9Toast></Question9Toast>
       <Question10></Question10>
       <Question11></Question11>
       <Question12></Question12>
